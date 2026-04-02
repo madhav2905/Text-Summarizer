@@ -1,7 +1,7 @@
 # AI Text Summarizer
 A full-stack NLP project that performs abstractive dialogue summarization using a fine-tuned T5 transformer model. The application is deployed locally with FastAPI and features a simple web interface for real-time summarization.
 
-<img width="1508" height="905" alt="Screenshot 2026-04-03 at 12 07 02 AM" src="https://github.com/user-attachments/assets/3fa27625-2951-479b-83ff-13fbc2b36f84" />
+<img width="1512" height="908" alt="Screenshot 2026-04-03 at 12 11 37 AM" src="https://github.com/user-attachments/assets/bdfa9607-1d2f-4d9c-a595-6978c4ac6b21" />
 
 ### Features
 * **Abstractive Summarization**: Generates human-like summaries instead of just extracting sentences.
