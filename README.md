@@ -12,3 +12,6 @@ A full-stack NLP project that performs abstractive dialogue summarization using 
 * **Framework**: FastAPI
 * **Frontend**: HTML, CSS, Jinja2
 * **Hardware**: Accelerated using Apple Silicon **MPS** (Metal Performance Shaders)
+
+### Demo
+<img width="1508" height="905" alt="Screenshot 2026-04-03 at 12 07 02 AM" src="https://github.com/user-attachments/assets/3fa27625-2951-479b-83ff-13fbc2b36f84" />
